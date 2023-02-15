@@ -1,0 +1,11 @@
+{
+  "description": "Air Music Official Website",
+  "repo": "https://github.com/airmusicofficial",
+  "owner": {
+    "username": "airmusicofficial",
+    "email": "air.musicbot@gmail.com"
+  },
+  "record": {
+    "URL": "https://air-music-website.thiranjayaselec.repl.co"
+  }
+}
